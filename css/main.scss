@@ -29,3 +29,10 @@
 
 @import "settings.variables";
 @import "base";
+
+.mg-title {
+  background-color: red;
+  display: inline-block;
+  padding: 1rem;
+  box-shadow: 5px 5px orange;
+}

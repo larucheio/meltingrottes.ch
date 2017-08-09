@@ -49,8 +49,9 @@
   background-color: $color-red;
 }
 
-.hover-planet:hover,
-.hover-planet:focus {
+.hover-rotate-planet:hover,
+.hover-rotate-planet:focus,
+.rotate-planet {
   animation: rotation 8s infinite linear;
 }
 

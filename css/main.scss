@@ -45,7 +45,8 @@
 
 .bg-red,
 .hover-bg-red:hover,
-.hover-bg-red:focus {
+.hover-bg-red:focus,
+.link-active {
   background-color: $color-red;
 }
 

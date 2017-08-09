@@ -31,8 +31,22 @@
 @import "base";
 
 .mg-title {
-  background-color: red;
+  background-color: $color-red;
   display: inline-block;
   padding: 1rem;
   box-shadow: 5px 5px orange;
+}
+
+.red {
+  color: $color-red;
+}
+
+.bg-red {
+  background-color: $color-red;
+}
+
+.hover-bg-red:active,
+.hover-bg-red:hover,
+.hover-bg-red:focus {
+  background-color: $color-red;
 }

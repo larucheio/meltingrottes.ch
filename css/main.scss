@@ -37,15 +37,13 @@
   box-shadow: 5px 5px orange;
 }
 
-.red {
+.red,
+.hover-red:focus,
+.hover-red:hover {
   color: $color-red;
 }
 
-.bg-red {
-  background-color: $color-red;
-}
-
-.hover-bg-red:active,
+.bg-red,
 .hover-bg-red:hover,
 .hover-bg-red:focus {
   background-color: $color-red;

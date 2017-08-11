@@ -9,7 +9,7 @@
             <stop stop-color="#2CD1FF" offset="52.0408163%"></stop>
             <stop stop-color="#2CFF88" offset="100%"></stop>
         </linearGradient>
-        <path d="M595,15 C636.421356,15 670,48.5786438 670,90 C670,131.421356 636.421356,165 595,165 C553.578644,165 520,131.421356 520,90 C520,48.5786438 553.578644,15 595,15 Z" id="path-2"></path>
+        <path d="M595,70 C636.421356,70 670,103.578644 670,145 C670,186.421356 636.421356,220 595,220 C553.578644,220 520,186.421356 520,145 C520,103.578644 553.578644,70 595,70 Z" id="path-2"></path>
         <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-4">
             <stop stop-color="#FA8BFF" offset="0%"></stop>
             <stop stop-color="#2CD1FF" offset="52.0408163%"></stop>

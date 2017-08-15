@@ -7,14 +7,14 @@ menu:
 - title: Le festival
   url: /festival/
 
-- title: Capitaines
-  url: /capitaines/
-
 - title: Planètes
   url: /planetes/
 
-- title: Vaisseaux
-  url: /vaisseaux/
+- title: Satellites
+  url: /satellites/
+
+- title: Astéroïdes
+  url: /asteroides/
 
 - title: Contact
   url: /contact/

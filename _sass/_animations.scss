@@ -1,0 +1,14 @@
+.hover-rotate-planet:hover,
+.hover-rotate-planet:focus,
+.rotate-planet {
+  animation: rotation 8s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+		from {
+				transform: rotate(0deg);
+		}
+		to {
+				transform: rotate(360deg);
+		}
+}

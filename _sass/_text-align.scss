@@ -28,22 +28,41 @@
 .tl  { text-align: left; }
 .tr  { text-align: right; }
 .tc  { text-align: center; }
+.tj  {
+  text-align: justify;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
 
 @media #{$breakpoint-not-small} {
   .tl-ns  { text-align: left; }
   .tr-ns  { text-align: right; }
   .tc-ns  { text-align: center; }
+  .tj-ns  {
+    text-align: justify;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+  }
 }
 
 @media #{$breakpoint-medium} {
   .tl-m  { text-align: left; }
   .tr-m  { text-align: right; }
   .tc-m  { text-align: center; }
+  .tj-m  {
+    text-align: justify;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+  }
 }
 
 @media #{$breakpoint-large} {
   .tl-l  { text-align: left; }
   .tr-l  { text-align: right; }
   .tc-l  { text-align: center; }
+  .tj-l  {
+    text-align: justify;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+  }
 }
-

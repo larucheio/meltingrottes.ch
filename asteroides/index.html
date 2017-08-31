@@ -10,7 +10,8 @@ title: "Astéroïdes"
 
   <h3>🔥🔥🔥 Soirée d'ouverture 👾👾👾</h3>
 
-  {% for asteroid in site.data.prog.jeudi.prog %}
+  {% assign asteroids = site.data.prog.jeudi.prog | sort:'time.from' %}
+  {% for asteroid in asteroids %}
     {% include asteroid.html %}
   {% endfor %}
 </section>
@@ -18,7 +19,8 @@ title: "Astéroïdes"
 <section>
   <h2 class="mg-title">Vendredi 01 septembre 2017</h2>
 
-    {% for asteroid in site.data.prog.vendredi.prog %}
+    {% assign asteroids = site.data.prog.vendredi.prog | sort:'time.from' %}
+    {% for asteroid in asteroids %}
       {% include asteroid.html %}
     {% endfor %}
 </section>
@@ -26,7 +28,8 @@ title: "Astéroïdes"
 <section>
   <h2 class="mg-title">Samedi 02 septembre 2017</h2>
 
-    {% for asteroid in site.data.prog.samedi.prog %}
+    {% assign asteroids = site.data.prog.samedi.prog | sort:'time.from' %}
+    {% for asteroid in asteroids %}
       {% include asteroid.html %}
     {% endfor %}
 </section>
@@ -34,7 +37,8 @@ title: "Astéroïdes"
 <section>
   <h2 class="mg-title">Dimanche 03 septembre 2017</h2>
 
-    {% for asteroid in site.data.prog.dimanche.prog %}
+    {% assign asteroids = site.data.prog.dimanche.prog | sort:'time.from' %}
+    {% for asteroid in asteroids %}
       {% include asteroid.html %}
     {% endfor %}
 </section>

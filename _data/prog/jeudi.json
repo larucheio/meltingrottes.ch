@@ -1,0 +1,47 @@
+{
+  "date": "2017-08-31",
+  "prog": [
+    {
+      "name": "Central Station DJs (aka Fall & Galabar)",
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "House / Techno",
+      "venue": "central-station",
+      "time": {
+        "from": "20:00",
+        "to": "02:00"
+      },
+      "links": [
+        {
+          "name": "SoundCloud - Central Station",
+          "link": "https://soundcloud.com/central-station-geneva"
+        },
+        {
+          "name": "SoundCloud - Adrien Fall",
+          "link": "https://soundcloud.com/adrien-fall"
+        },
+        {
+          "name": "SoundCloud - Galabar",
+          "link": "https://soundcloud.com/galabar"
+        }
+      ]
+    },
+    {
+      "name": "Annibale O.",
+      "from": "Geneva",
+      "type": "Live",
+      "style": "House / Techno",
+      "venue": "central-station",
+      "time": {
+        "from": "20:00",
+        "to": "02:00"
+      },
+      "links": [
+        {
+          "name": "SoundCloud",
+          "link": "https://soundcloud.com/annibale_sounds"
+        }
+      ]
+    }
+  ]
+}

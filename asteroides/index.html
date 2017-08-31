@@ -5,6 +5,36 @@ title: "Astéroïdes"
 
 <h1 class="ttu mg-title">Les asteroïdes</h1>
 
-<p class="measure f3">
-La programmation sera annoncée fin août!
-</p>
+<section>
+  <h2 class="mg-title">Jeudi 31 août 2017</h2>
+
+  <h3>🔥🔥🔥 Soirée d'ouverture 👾👾👾</h3>
+
+  {% for asteroid in site.data.prog.jeudi.prog %}
+    {% include asteroid.html %}
+  {% endfor %}
+</section>
+
+<section>
+  <h2 class="mg-title">Vendredi 01 septembre 2017</h2>
+
+    {% for asteroid in site.data.prog.vendredi.prog %}
+      {% include asteroid.html %}
+    {% endfor %}
+</section>
+
+<section>
+  <h2 class="mg-title">Samedi 02 septembre 2017</h2>
+
+    {% for asteroid in site.data.prog.samedi.prog %}
+      {% include asteroid.html %}
+    {% endfor %}
+</section>
+
+<section>
+  <h2 class="mg-title">Dimanche 03 septembre 2017</h2>
+
+    {% for asteroid in site.data.prog.dimanche.prog %}
+      {% include asteroid.html %}
+    {% endfor %}
+</section>

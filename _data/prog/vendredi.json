@@ -1,0 +1,55 @@
+{
+  "date": "2017-09-01",
+  "prog": [
+    {
+      "name": "Aloko",
+      "labels": [
+        {
+          "name": "Ataya music.box",
+          "link": "https://www.facebook.com/AtayaMusicBox/"
+        },
+      ],
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Tropic / Electro",
+      "venue": "central-station",
+      "time": {
+        "from": "21:00",
+        "to": "02:00"
+      },
+      "links": [
+        {
+          "name": "SoundCloud",
+          "link": "https://soundcloud.com/aloko"
+        }
+      ]
+    },
+    {
+      "name": "Poperttelli",
+      "labels": [
+        {
+          "name": "Maturre",
+          "link": "https://www.facebook.com/maturre/"
+        },
+        {
+          "name": "AB Records",
+          "link": "https://www.facebook.com/AB-Records-357432757605326/"
+        }
+      ],
+      "from": "Berlin",
+      "type": "DJ",
+      "style": "Tropic / Electro",
+      "venue": "central-station",
+      "time": {
+        "from": "21:00",
+        "to": "02:00"
+      },
+      "links": [
+        {
+          "name": "SoundCloud",
+          "link": "https://soundcloud.com/poperttelli"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2017-09-02",
+  "prog": [
+    {
+      "name": "Mr. Riddler",
+      "labels": [
+        {
+          "name": "Arkham Asylum"
+        },
+      ],
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Funk / Hip-Hop",
+      "venue": "central-station",
+      "time": {
+        "from": "21:00",
+        "to": "02:00"
+      },
+      "links": [
+        {
+          "name": "Site",
+          "link": "http://www.riddler.ch/"
+        },
+        {
+          "name": "Soundcloud",
+          "link": "https://soundcloud.com/riddler"
+        }
+      ]
+    }
+  ]
+}

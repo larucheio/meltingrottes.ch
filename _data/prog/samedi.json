@@ -173,6 +173,28 @@
         "from": "23:00",
         "to": "00:00"
       }
+    },
+    {
+      "name": "Alex B & Guests",
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Ragga-Dancehall Fusion",
+      "venue": "walden",
+      "time": {
+        "from": "19:00",
+        "to": "00:00"
+      }
+    },
+    {
+      "name": "Supap' de scour",
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Space-Tropical Aromatik",
+      "venue": "walden",
+      "time": {
+        "from": "19:00",
+        "to": "00:00"
+      }
     }
   ]
 }

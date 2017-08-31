@@ -185,6 +185,39 @@
           "link": "https://bassment.ch/"
         }
       ]
+    },
+    {
+      "name": "Baast",
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Hip Hop & more",
+      "venue": "walden",
+      "time": {
+        "from": "19:00",
+        "to": "00:00"
+      }
+    },
+    {
+      "name": "Lazer",
+      "from": "Geneva",
+      "type": "Live",
+      "style": "Tek-Synthé-Rap",
+      "venue": "walden",
+      "time": {
+        "from": "19:00",
+        "to": "00:00"
+      }
+    },
+    {
+      "name": "The Coco Kbye",
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Rock Glam-Trash-Electro",
+      "venue": "walden",
+      "time": {
+        "from": "19:00",
+        "to": "00:00"
+      }
     }
   ]
 }

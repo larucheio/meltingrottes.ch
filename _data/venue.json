@@ -6,5 +6,9 @@
   "bassment": {
     "name": "Bassment!",
     "link": "/planetes/bassment/"
+  },
+  "walden": {
+    "name": "Walden/Duplex",
+    "link": "/planetes/duplex-walden/"
   }
 }

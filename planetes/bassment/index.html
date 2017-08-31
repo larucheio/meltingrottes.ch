@@ -3,3 +3,32 @@ layout: planete
 title: "Bassment!"
 image: 'bassment.svg'
 ---
+
+<h2 class="mg-title">Programme</h2>
+
+<section>
+  <h3 class="mg-title">Vendredi 01 septembre 2017</h3>
+
+    {% assign asteroids = site.data.prog.vendredi.prog | where:'venue', 'bassment' | sort:'time.from' %}
+    {% for asteroid in asteroids %}
+      {% include asteroid.html %}
+    {% endfor %}
+</section>
+
+<section>
+  <h3 class="mg-title">Samedi 02 septembre 2017</h3>
+
+    {% assign asteroids = site.data.prog.samedi.prog | where:'venue', 'bassment' | sort:'time.from' %}
+    {% for asteroid in asteroids %}
+      {% include asteroid.html %}
+    {% endfor %}
+</section>
+
+<section>
+  <h3 class="mg-title">Dimanche 03 septembre 2017</h3>
+
+  {% assign asteroids = site.data.prog.dimanche.prog | where:'venue', 'bassment' | sort:'time.from' %}
+  {% for asteroid in asteroids %}
+    {% include asteroid.html %}
+  {% endfor %}
+</section>

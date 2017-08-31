@@ -50,6 +50,141 @@
           "link": "https://soundcloud.com/poperttelli"
         }
       ]
+    },
+    {
+      "name": "Bassment! All Stars",
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Reggae",
+      "venue": "bassment",
+      "time": {
+        "from": "17:00",
+        "to": "18:00"
+      },
+      "links": [
+        {
+          "name": "Site web",
+          "link": "https://bassment.ch/"
+        }
+      ]
+    },
+    {
+      "name": "Bassment! All Stars",
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Salsa/Cumbia",
+      "venue": "bassment",
+      "time": {
+        "from": "18:00",
+        "to": "19:00"
+      },
+      "links": [
+        {
+          "name": "Site web",
+          "link": "https://bassment.ch/"
+        }
+      ]
+    },
+    {
+      "name": "San Telmo & Luis",
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Hip-Hop/Reggae/Cumbia",
+      "venue": "bassment",
+      "time": {
+        "from": "19:00",
+        "to": "20:00"
+      }
+    },
+    {
+      "name": "Tropical Blue Masterclash",
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Latin Flex",
+      "venue": "bassment",
+      "time": {
+        "from": "20:00",
+        "to": "21:00"
+      },
+      "links": [
+        {
+          "name": "Facebook",
+          "link": "https://www.facebook.com/tropicalbluemasterclash/"
+        }
+      ]
+    },
+    {
+      "name": "Mah'mood",
+      "labels": [
+        {
+          "name": "Constellation",
+          "link": "https://www.facebook.com/cnstlltn/"
+        }
+      ],
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Bongo Joe",
+      "venue": "bassment",
+      "time": {
+        "from": "21:00",
+        "to": "22:00"
+      },
+      "links": [
+        {
+          "name": "SoundCloud",
+          "link": "https://soundcloud.com/mah-m00d"
+        }
+      ]
+    },
+    {
+      "name": "Mirlaqi",
+      "labels": [
+        {
+          "name": "Chaleur Cosmique",
+          "link": ""
+        },
+        {
+          "name": "Rudel Bums",
+          "link": "https://www.facebook.com/profile.php?id=100010243110503"
+        }
+      ],
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Groove House",
+      "venue": "bassment",
+      "time": {
+        "from": "22:00",
+        "to": "23:00"
+      },
+      "links": [
+        {
+          "name": "SoundCloud",
+          "link": "https://soundcloud.com/mirlaqi"
+        }
+      ]
+    },
+    {
+      "name": "More-Ice",
+      "labels": [
+        {
+          "name": "Bassment!",
+          "link": "https://bassment.ch/"
+        }
+      ],
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Ice House",
+      "venue": "bassment",
+      "time": {
+        "from": "23:00",
+        "to": "00:00"
+      },
+      "links": [
+        {
+          "name": "Site",
+          "link": "https://bassment.ch/"
+        }
+      ]
     }
   ]
 }

@@ -1,4 +1,10 @@
-"central-station": {
-  "name": "Central Station",
-  "link": "/planetes/central-station/"
+{
+  "central-station": {
+    "name": "Central Station",
+    "link": "/planetes/central-station/"
+  },
+  "bassment": {
+    "name": "Bassment!",
+    "link": "/planetes/bassment/"
+  }
 }

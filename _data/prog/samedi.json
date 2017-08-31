@@ -26,6 +26,153 @@
           "link": "https://soundcloud.com/riddler"
         }
       ]
+    },
+    {
+      "name": "Bassment! All Stars",
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Reggae",
+      "venue": "bassment",
+      "time": {
+        "from": "16:00",
+        "to": "17:00"
+      },
+      "links": [
+        {
+          "name": "Site web",
+          "link": "https://bassment.ch/"
+        }
+      ]
+    },
+    {
+      "name": "DJ Macka",
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Reggae",
+      "venue": "bassment",
+      "time": {
+        "from": "17:00",
+        "to": "18:00"
+      }
+    },
+    {
+      "name": "Deep Soul",
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "New Dancehall",
+      "venue": "bassment",
+      "time": {
+        "from": "18:00",
+        "to": "19:00"
+      },
+      "links": [
+        {
+          "name": "SoundCloud",
+          "link": "https://soundcloud.com/deep_soul-sound"
+        }
+      ]
+    },
+    {
+      "name": "Bony Fly",
+      "labels": [
+        {
+          "name": "Sparring Partners",
+          "link": "https://soundcloud.com/sparring-partners-1"
+        }
+      ],
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Digital/Dancehall",
+      "venue": "bassment",
+      "time": {
+        "from": "19:00",
+        "to": "20:00"
+      },
+      "links": [
+        {
+          "name": "SoundCloud",
+          "link": "https://soundcloud.com/bony-fly"
+        }
+      ]
+    },
+    {
+      "name": "Till",
+      "labels": [
+        {
+          "name": "Bassment!",
+          "link": "https://bassment.ch"
+        }
+      ],
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Digital/Dancehall",
+      "venue": "bassment",
+      "time": {
+        "from": "20:00",
+        "to": "21:00"
+      }
+    },
+    {
+      "name": "RSPT",
+      "labels": [
+        {
+          "name": "Bassment!",
+          "link": "https://bassment.ch"
+        }
+      ],
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Digital/Jungle",
+      "venue": "bassment",
+      "time": {
+        "from": "21:00",
+        "to": "22:00"
+      },
+      "links": [
+        {
+          "name": "Facebook",
+          "link": "https://www.facebook.com/rsptx/"
+        }
+      ]
+    },
+    {
+      "name": "Dser",
+      "labels": [
+        {
+          "name": "Darkmanoeuvres"
+        }
+      ],
+      "from": "Geneva",
+      "type": "Live",
+      "style": "Low Jungle",
+      "venue": "bassment",
+      "time": {
+        "from": "22:00",
+        "to": "23:00"
+      },
+      "links": [
+        {
+          "name": "SoundCloud",
+          "link": "https://soundcloud.com/dser"
+        }
+      ]
+    },
+    {
+      "name": "RedA",
+      "labels": [
+        {
+          "name": "Bassment!",
+          "link": "https://bassment.ch"
+        }
+      ],
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Jungle/D&B",
+      "venue": "bassment",
+      "time": {
+        "from": "23:00",
+        "to": "00:00"
+      }
     }
   ]
 }

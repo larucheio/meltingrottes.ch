@@ -1,0 +1,43 @@
+{
+  "date": "2017-09-03",
+  "prog": [
+    {
+      "name": "Bassment! All Stars",
+      "from": "Geneva",
+      "type": "DJ",
+      "style": "Chill Out",
+      "venue": "bassment",
+      "time": {
+        "from": "15:00",
+        "to": "17:00"
+      },
+      "links": [
+        {
+          "name": "Site web",
+          "link": "https://bassment.ch/"
+        }
+      ]
+    },
+    {
+      "name": "ADSR Présente: Lives modulaires, electroniques, ambiant et minimalistes",
+      "from": "Los Cablos, Photocell, Olivier Kolly & Boodaman Modular",
+      "type": "Live",
+      "style": "Chill Out",
+      "venue": "bassment",
+      "time": {
+        "from": "17:00",
+        "to": "22:00"
+      },
+      "links": [
+        {
+          "name": "SoundCloud - Olivier Kolly",
+          "link": "https://soundcloud.com/olivier-kolly"
+        },
+        {
+          "name": "Boodaman",
+          "link": "http://www.boodaman.com/"
+        }
+      ]
+    }
+  ]
+}

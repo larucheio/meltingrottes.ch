@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<article class="flex flex-column flex-row-l">
-  <header class="w-100 w-50-l pr4-l">
+<article class="flex flex-column">
+  <header class="w-100">
     <h1 class="lh-title mg-title">{{ page.title }}</h1>
-    <div class="db rotate-planet">
+    <div class="db rotate-planet w-50">
       {% include {{ page.image | prepend: '/svg/planetes/' }} %}
     </div>
   </header>
-  <div class="w-100 w-50-l">
+  <div class="w-100">
     {{ content }}
   </div>
 </article>

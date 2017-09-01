@@ -1,4 +1,4 @@
-<div class="mb3">
+<div class="mb3 bg-light-gray black pa2">
   <div>
     <b>{{ asteroid.name }}</b>
     {% if asteroid.labels %}
@@ -15,10 +15,10 @@
       {% endfor %}
     {% endif %}
   </div>
-  <div class="">
+  <div class="f6 ttu tracked">
     {{ asteroid.from }} - {{ asteroid.style }}
   </div>
-  <div class="f6 ttu tracked moon-gray">
-    {{ asteroid.time.from }}-{{ asteroid.time.to }} / {{ asteroid.type }} / <a href="{{ site.data.venue[asteroid.venue].link }}" class="link red hover-orange">{{ site.data.venue[asteroid.venue].name }}</a>
+  <div class="f6 ttu tracked green mt2">
+    {{ asteroid.time.from }}-{{ asteroid.time.to }} <span class="black">/ {{ asteroid.type }} /<span> <a href="{{ site.data.venue[asteroid.venue].link }}" class="link red hover-orange">{{ site.data.venue[asteroid.venue].name }}</a>
   </div>
 </div>
